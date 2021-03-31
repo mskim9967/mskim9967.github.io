@@ -68,7 +68,7 @@ function App() {
 ```
  __useState__ 를 사용하여 state를 생성한다. (import 필수)
  
- _alertEdit()_ 으로 alert를 변경시키면, alert가 포함된 HTML이 자동으로 rerendering 된다.
+ _alertEdit()_ 으로 `alert`를 변경시키면, `alert`가 포함된 HTML이 자동으로 rerendering 된다.
  <br>
 >destructing?
 >```jsx
@@ -78,6 +78,7 @@ function App() {
 
 ## Component
 하나의 *div*를 하나의 *function*으로 줄일 수 있다.
+
 이 *function*에서 return된 *div*를  **Component** 라고 부른다.
 ```jsx
 function Comp(){ 
@@ -95,7 +96,7 @@ function App(){
   )
 } 
 ```
-*App()*에서 
+*App()*에서 `<Comp></Comp>`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTcyMzUxODFdfQ==
+eyJoaXN0b3J5IjpbLTExODE2NzUwNjRdfQ==
 -->
