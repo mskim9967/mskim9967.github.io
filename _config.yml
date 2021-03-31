@@ -17,10 +17,10 @@ timezone: Asia/Seoul
 # --------------------------
 title: MS's log                         # the main title
 
-tagline: 개발자가 되고 싶은 학생의 발자취   # it will display as the sub-title
+tagline: 개발자가 되고 싶은 학생의 Log   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  개발자가 되고 싶은 학생의 발자취
+  개발자가 되고 싶은 학생의 Log
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://mskim9967.github.io'
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   #[light|dark]
+theme_mode:   dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
