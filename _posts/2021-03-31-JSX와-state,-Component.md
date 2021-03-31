@@ -98,11 +98,13 @@ function App(){
 ```
 `App()`에서 `<Comp></Comp>`가 하나의 **Component!**
 
-`App()`도
+`App()`도 결국 하나의 **Component**!
 
 
 #### 주의
+- 마구 남발하면 data binding하기 복잡해질 수도 있음(
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTk3NDg5MF19
+eyJoaXN0b3J5IjpbMTk3OTUwMzUyM119
 -->
