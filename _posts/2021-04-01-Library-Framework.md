@@ -23,8 +23,10 @@ image:
 ## Library vs Framework
 | Library | Framework |
 | :---: | :---: |
-| Left | Center | Right |
+| 내 코드에서 **Library**를 호출 | **Framework**가 내 코드를 호출 |
+|ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ|
+|ㅇㅇㅇ|ㅇㅇㅇㅇ|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODU0MzQzMywtMTUyNzg0NjY4MiwtMT
+eyJoaXN0b3J5IjpbMTQyOTc2Mjg0OSwtMTUyNzg0NjY4MiwtMT
 IxMzUyOTk2MiwtMTM5ODQ1OTM4MV19
 -->
