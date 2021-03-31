@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: D_log
+title: log
 icon: fas fa-stream
 order: 1
 ---
