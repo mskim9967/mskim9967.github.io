@@ -15,8 +15,11 @@ image:
 *ex) jQuery, Chart.js*
 
 ## Framework
-특정한 프로그램 개발을 위하를
+특정한 프로그램 개발을 위하여 제공되는 소프트웨어
+*ex) Spring, Django, Node.js*
+
+## Library vs Framework
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMzc3NTA2LC0xNTI3ODQ2NjgyLC0xMj
-EzNTI5OTYyLC0xMzk4NDU5MzgxXX0=
+eyJoaXN0b3J5IjpbLTEwMDY2NDI0MjAsLTE1Mjc4NDY2ODIsLT
+EyMTM1Mjk5NjIsLTEzOTg0NTkzODFdfQ==
 -->
