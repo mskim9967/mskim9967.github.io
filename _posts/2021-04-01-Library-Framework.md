@@ -11,8 +11,8 @@ image:
 ---
 
 ## Library
-- 프로그램 개발ㅇ,ㄹ 으;ㅎ
+- 프로그램 개발 중 필요한 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwMjEwMDg2LC0xMjEzNTI5OTYyLC0xMz
-k4NDU5MzgxXX0=
+eyJoaXN0b3J5IjpbLTE1Mjc4NDY2ODIsLTEyMTM1Mjk5NjIsLT
+EzOTg0NTkzODFdfQ==
 -->
