@@ -27,10 +27,11 @@ Active service, Sergent, Intelligence communication
 
 #### Interest in
 - Running
+- Video edit
 - 
 -  J-POP
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjMxNjgzNywtMTA4OTg2MDA4MSwtNz
+eyJoaXN0b3J5IjpbMTY4NzA5MTI3MSwtMTA4OTg2MDA4MSwtNz
 k0Mzc5ODJdfQ==
 -->
