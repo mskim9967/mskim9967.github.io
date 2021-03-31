@@ -1,9 +1,9 @@
 ---
 layout: categories
-title: Log
+title: og
 icon: fas fa-stream
 order: 1
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNDE5OTE3XX0=
+eyJoaXN0b3J5IjpbLTE2MDU3MDE5NTIsOTgzNDE5OTE3XX0=
 -->
