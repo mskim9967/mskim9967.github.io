@@ -19,7 +19,7 @@ order: 4
 - Seoul, Republic of Korea
 
 #### Education
-* Ph.D., ABC University, 2008 - present
+* M.S. in , ABC University, 2008 - present
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDQwNzEwNCwtNzk0Mzc5ODJdfQ==
+eyJoaXN0b3J5IjpbOTg4ODI1NzIxLC03OTQzNzk4Ml19
 -->
