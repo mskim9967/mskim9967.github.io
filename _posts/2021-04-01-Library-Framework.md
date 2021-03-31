@@ -11,12 +11,12 @@ image:
 ---
 
 ## Library
-개발을 간편하게 하기 위해 제공되는 도구들
+프로그램 개발을 간편하게 하기 위해 제공되는 도구들
 *ex) jQuery, Chart.js*
 
 ## Framework
-
+특정한 프로그램 개발을 위하를
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTUyNTY0MiwtMTUyNzg0NjY4MiwtMT
-IxMzUyOTk2MiwtMTM5ODQ1OTM4MV19
+eyJoaXN0b3J5IjpbNTgzMzc3NTA2LC0xNTI3ODQ2NjgyLC0xMj
+EzNTI5OTYyLC0xMzk4NDU5MzgxXX0=
 -->
