@@ -11,8 +11,12 @@ image:
 ---
 
 ## Library
-- 개발을 수
+개발을 간편하게 하기 위해 제공되는 도구들
+*ex) jQuery, Chart.js*
+
+## Framework
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI1MDYzMjksLTE1Mjc4NDY2ODIsLT
-EyMTM1Mjk5NjIsLTEzOTg0NTkzODFdfQ==
+eyJoaXN0b3J5IjpbMTY5MTUyNTY0MiwtMTUyNzg0NjY4MiwtMT
+IxMzUyOTk2MiwtMTM5ODQ1OTM4MV19
 -->
