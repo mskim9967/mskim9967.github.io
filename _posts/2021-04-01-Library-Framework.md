@@ -11,12 +11,12 @@ image:
 ---
 
 ## Library
-프로그램 개발을 간편하게 하기 위해 제공되는 도구들
+프로그램 개발을 간편하게 하기 위해 제공되는 도구 또는 함수의 집합
 *ex) jQuery, Chart.js*
 <br/><br/>
 
 ## Framework
-특정한 프로그램 개발을 위하여 제공되는 소프트웨어
+특정한 프로그램 개발을 위하여 제공되는 기본 뼈대 소프트웨어
 *ex) Spring, Django, Node.js*
 <br/><br/>
 
@@ -27,6 +27,6 @@ image:
 |대체하기 쉬움|대체하기 어려움|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTI3NzcyNCwtMTUyNzg0NjY4MiwtMT
+eyJoaXN0b3J5IjpbLTcwMDg4MDA0MiwtMTUyNzg0NjY4MiwtMT
 IxMzUyOTk2MiwtMTM5ODQ1OTM4MV19
 -->
