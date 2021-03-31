@@ -1,6 +1,6 @@
 ---
 title: 리액트(Reach) 초기 설정
-author: Cotes Chung
+author: MyungSeung Kim
 date: 2019-08-08 11:33:00 +0800
 categories: [Web, React]
 tags: [web, react]
@@ -218,3 +218,6 @@ private void writeObject(java.io.ObjectOutputStream s)
 
 [^footnote]: The footnote source
 [^fn-nth-2]: The 2nd footnote source
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwODU5NjI4ODFdfQ==
+-->
