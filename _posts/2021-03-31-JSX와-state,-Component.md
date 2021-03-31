@@ -78,7 +78,7 @@ function App() {
 
 ## Component
 하나의 *div*를 하나의 *function*으로 줄일 수 있다.
-이 *function*을 **Component** 라고 부른다 
+이 *function*에서 return된 *div*를  **Component** 라고 부른다.
 ```jsx
 function Comp(){ 
   return ( 
@@ -95,6 +95,7 @@ function App(){
   )
 } 
 ```
+*App()*에서 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjgxOTIwOF19
+eyJoaXN0b3J5IjpbLTEwMTcyMzUxODFdfQ==
 -->
