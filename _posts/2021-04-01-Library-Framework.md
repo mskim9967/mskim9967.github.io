@@ -16,7 +16,7 @@ image:
 <br/><br/>
 
 ## Framework
-특정한 프로그램 개발을 위하여 제공되는 기본 뼈대 소프트웨어
+특정한 프로그램 개발을 위하여 제공되는 기반  소프트웨어
 *ex) Spring, Django, Node.js*
 <br/><br/>
 
@@ -25,8 +25,12 @@ image:
 | :---: | :---: |
 | 내 코드에서 **Library**를 호출 | **Framework**가 내 코드를 호출 |
 |대체하기 쉬움|대체하기 어려움|
+<br/><br/>
+
+## React?
+공식 홈페이지에는 *Framework*라고 명시되어 있다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDg4MDA0MiwtMTUyNzg0NjY4MiwtMT
-IxMzUyOTk2MiwtMTM5ODQ1OTM4MV19
+eyJoaXN0b3J5IjpbLTExOTA1OTA0NzcsLTE1Mjc4NDY2ODIsLT
+EyMTM1Mjk5NjIsLTEzOTg0NTkzODFdfQ==
 -->
