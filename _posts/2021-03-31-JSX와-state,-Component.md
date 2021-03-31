@@ -96,7 +96,13 @@ function App(){
   )
 } 
 ```
-*App()*에서 `<Comp></Comp>`
+`App()`에서 `<Comp></Comp>`가 하나의 **Component!**
+
+`App()`도
+
+
+#### 주의
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE2NzUwNjRdfQ==
+eyJoaXN0b3J5IjpbLTI3MTk3NDg5MF19
 -->
