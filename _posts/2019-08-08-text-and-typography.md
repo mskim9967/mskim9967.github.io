@@ -10,7 +10,7 @@ image:
 
 ---
 
-This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
+React를 왜 사용할까? 초기 셋팅은 어떻게 해야할까?
 
 
 ## Titles
@@ -219,5 +219,5 @@ private void writeObject(java.io.ObjectOutputStream s)
 [^footnote]: The footnote source
 [^fn-nth-2]: The 2nd footnote source
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxNjg0NjQyXX0=
+eyJoaXN0b3J5IjpbLTE2OTUwNjA0NTldfQ==
 -->
