@@ -13,7 +13,7 @@ image:
 React에서는 HTML 대신 JSX를 사용한다!
 <br/>
 
-# JSX
+## JSX
 ---
 
 ```jsx
@@ -44,7 +44,7 @@ function App(){
 ```
 모든 propertyName은 Hypen 대신 __camelCase__ 로!
 <br/>
-# state
+## state
 ---
 JSX에서 data binding 시 일반 변수가 아닌 state를 사용한다.
 
@@ -77,7 +77,7 @@ function App() {
 >array 안의 데이터를 쉽게 변수에 선언 가능!
 <br/>
 
-# Component
+## Component
 하나의 *div*를 하나의 *function*으로 줄일 수 있다.
 
 이 *function*에서 return된 *div*를  **Component** 라고 부른다.
@@ -109,5 +109,5 @@ function App(){
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDM0NTM0Ml19
+eyJoaXN0b3J5IjpbMTI0Nzk0Njg0MV19
 -->
