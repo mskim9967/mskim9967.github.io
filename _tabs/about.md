@@ -23,9 +23,10 @@ order: 4
 
 #### Military service
 - **Republic of Korea Air Force**
-Active service, Sergent,
-Information System Operator
+Active service, Sergent, Intelligence communication
+
+#### Interest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4MjAwMDcxLC0xMDg5ODYwMDgxLC03OT
+eyJoaXN0b3J5IjpbNDQ4OTgyNzMzLC0xMDg5ODYwMDgxLC03OT
 QzNzk4Ml19
 -->
