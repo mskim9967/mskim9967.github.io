@@ -11,7 +11,7 @@ image:
 ---
 
 React에서는 HTML 대신 JSX를 사용한다!
-
+<br/>
 
 ## JSX
 ---
@@ -75,6 +75,7 @@ function App() {
 >var [name, age] = ['Kim', 20];
 >```
 >array 안의 데이터를 쉽게 변수에 선언 가능!
+<br/>
 
 ## Component
 하나의 *div*를 하나의 *function*으로 줄일 수 있다.
@@ -99,14 +100,14 @@ function App(){
 `App()`에서 `<Comp></Comp>`가 하나의 **Component!**
 
 `App()`도 결국 하나의 **Component**!
-
+<br/>
 
 #### 주의
 - 마구 남발하면 data binding하기 복잡해질 수도 있음(props로 data를 넘겨줘야 하기 떔시
 -  항상 하나의 `<div>`를 반환해야함!
--  그게 싫으면 `<> 블라블라</>` 도 가능!(fragment
+-  그게 싫으면 `<> 블라블라 </>` 도 가능! (fragments 문법)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTcxMTM1XX0=
+eyJoaXN0b3J5IjpbMTA5MjE5OTgxM119
 -->
