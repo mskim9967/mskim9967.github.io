@@ -23,7 +23,8 @@ order: 4
 
 #### Military service
 - **Republic of Korea Air Force**
-sergent squad leader, 
+sergent squad leader,   
+Information System Operator
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzUyNzEyNiwtNzk0Mzc5ODJdfQ==
+eyJoaXN0b3J5IjpbLTEwODk4NjAwODEsLTc5NDM3OTgyXX0=
 -->
