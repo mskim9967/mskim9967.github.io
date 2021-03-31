@@ -25,7 +25,7 @@ image:
 | :---: | :---: |
 | 내 코드에서 *Library*를 호출 | *Framework*가 내 코드를 호출 |
 |대체하기 쉬움|대체하기 어려움|
-
+|tool|rule|
 <br/><br/>
 
 ## React는?
@@ -34,9 +34,10 @@ image:
 또한 웹 개발 시 UI를 빌드하기 위해 React를 불러오므로, 이러한 관점에서 React는 *Framework*이다.
 <br/>
 다만, React는 내 코드의 Component를  호출한다. 이러한 관점에서는 *Framework*라고 할 수 있다...
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTU2MjU3NiwtMTUyNzg0NjY4MiwtMT
+eyJoaXN0b3J5IjpbLTk0NTIwMjg0MiwtMTUyNzg0NjY4MiwtMT
 IxMzUyOTk2MiwtMTM5ODQ1OTM4MV19
 -->
