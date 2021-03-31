@@ -10,37 +10,10 @@ image:
 
 ---
 
-React를 왜 사용할까? 초기 셋팅은 어떻게 해야할까?
-
-
-## 장점
----
-* HTML 요소 관리가 매우 편함!
-* Ajax를 사용하지 않고 간편하게 화면 Reloading 가능! (Web App에 최적화)
-* 잘 만들어두면 Mobile App처럼 사용이 가능!
-* Backend가 좋아할걸...?
-
-> React, Angular, Vue 비슷비슷
-
-<br/>
-
-## 초기 설정
----
-
-#### React Project 생성
-```bash
-npx create-react-app <projectname>
-```
-
-#### 실행 
-해당 프로젝트로 이동 후
-```bash
-npm start
-```
-<br/>
-쉽다!
+개인 블로그 시작합니다!
+**_야호_**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzI1MTAwNl19
+eyJoaXN0b3J5IjpbLTk3MTE5NzY1M119
 -->
