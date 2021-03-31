@@ -29,9 +29,12 @@ image:
 
 ## React는?
 공식 홈페이지에는 *Framework*라고 명시되어 있다.
-또한 웹 개발 시 UI를 빌드하기 위해 React를 불러오므로, 이러한 관점에서는 
+<br/>
+또한 웹 개발 시 UI를 빌드하기 위해 React를 불러오므로, 이러한 관점에서 React는 *Framework*이다.
+<br/>
+다만, React는 내 코드의 Compo 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3Mjc5OTE5LC0xNTI3ODQ2NjgyLC0xMj
+eyJoaXN0b3J5IjpbNDczNzQ1NDE3LC0xNTI3ODQ2NjgyLC0xMj
 EzNTI5OTYyLC0xMzk4NDU5MzgxXX0=
 -->
