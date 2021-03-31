@@ -18,7 +18,8 @@ order: 4
 #### Region
 - Seoul, Republic of Korea
 
-
+#### Education
+* Ph.D., ABC University, 2008 - present
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDM3OTgyXX0=
+eyJoaXN0b3J5IjpbMTkxMDQwNzEwNCwtNzk0Mzc5ODJdfQ==
 -->
