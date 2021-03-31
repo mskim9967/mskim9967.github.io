@@ -12,7 +12,7 @@ image:
 
 ## Library
 프로그램 개발을 간편하게 하기 위해 제공되는 도구 또는 함수의 집합
-*ex) jQuery, Chart.js*
+*ex) jQuery, Chart.js, numpy, pandas*
 <br/><br/>
 
 ## Framework
@@ -31,6 +31,6 @@ image:
 공식 홈페이지에는 *Framework*라고 명시되어 있다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA1OTA0NzcsLTE1Mjc4NDY2ODIsLT
+eyJoaXN0b3J5IjpbLTExMTU3MDIxMTcsLTE1Mjc4NDY2ODIsLT
 EyMTM1Mjk5NjIsLTEzOTg0NTkzODFdfQ==
 -->
