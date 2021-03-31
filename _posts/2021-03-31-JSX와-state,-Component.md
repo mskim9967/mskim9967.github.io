@@ -99,7 +99,7 @@ function App(){
 ```
 `App()`에서 `<Comp></Comp>`가 하나의 **Component!**
 
-`App()`도 결국 하나의 **Component**를 반환! (index.js
+`App()`도 결국 하나의 **Component**를 반환! (*index.js*를 보면 알 수 있음)
 <br/>
 
 #### 주의
@@ -109,5 +109,5 @@ function App(){
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5NDM1NDYxLDEwOTIxOTk4MTNdfQ==
+eyJoaXN0b3J5IjpbLTY5MDM0NTM0MiwxMDkyMTk5ODEzXX0=
 -->
