@@ -5,7 +5,8 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+# Welcome!!
+개발자가 되고 싶은 학생의 log
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQwOTM1ODVdfQ==
+eyJoaXN0b3J5IjpbMTE0NTE0MTYwOV19
 -->
