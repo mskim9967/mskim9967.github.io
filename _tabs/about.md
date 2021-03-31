@@ -22,7 +22,8 @@ order: 4
 * M.S. in Computer Science and Engineering, Chung-Ang University, (2018 - present)
 
 #### Military service
-- **Republic of Korea Air Force**
+- **sergent squad leader, Republic of Korea Air Force**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA3NTc5NDUsLTc5NDM3OTgyXX0=
+eyJoaXN0b3J5IjpbLTE0ODY2MTk0MDQsLTc5NDM3OTgyXX0=
 -->
