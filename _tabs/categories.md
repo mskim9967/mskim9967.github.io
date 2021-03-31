@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: og
+title: Log
 icon: fas fa-stream
 order: 1
 ---
