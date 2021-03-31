@@ -75,8 +75,10 @@ function App() {
 >var [name, age] = ['Kim', 20];
 >```
 >array 안의 데이터를 쉽게 변수에 선언 가능!
-## Component
 
+## Component
+하나의 *div*를 하나의 *function*으로 줄일 수 있다.
+주 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzAxNTgzNF19
+eyJoaXN0b3J5IjpbMTMxODIzMzExOV19
 -->
