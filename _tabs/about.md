@@ -19,7 +19,7 @@ order: 4
 - Seoul, Republic of Korea
 
 #### Education
-* M.S. in , ABC University, 2008 - present
+* M.S. in Computer Science and Engineering, Chung-Ang University, 2018 - present
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4ODI1NzIxLC03OTQzNzk4Ml19
+eyJoaXN0b3J5IjpbLTE5NDc5NDYzMzEsLTc5NDM3OTgyXX0=
 -->
