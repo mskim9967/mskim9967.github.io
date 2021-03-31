@@ -102,9 +102,11 @@ function App(){
 
 
 #### 주의
-- 마구 남발하면 data binding하기 복잡해질 수도 있음(
+- 마구 남발하면 data binding하기 복잡해질 수도 있음(props로 data를 넘겨줘야 하기 떔시
+-  항상 하나의 `<div>`를 반환해야함!
+-  그게 싫으면 `<> 블라블라</>` 도 가능!(fragment
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTUwMzUyM119
+eyJoaXN0b3J5IjpbMTY0OTcxMTM1XX0=
 -->
