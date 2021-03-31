@@ -25,8 +25,12 @@ order: 4
 - **Republic of Korea Air Force**
 Active service, Sergent, Intelligence communication
 
-#### Interest
+#### Interest in
+- Running
+- 
+-  J-POP
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4OTgyNzMzLC0xMDg5ODYwMDgxLC03OT
-QzNzk4Ml19
+eyJoaXN0b3J5IjpbLTQ3MjMxNjgzNywtMTA4OTg2MDA4MSwtNz
+k0Mzc5ODJdfQ==
 -->
