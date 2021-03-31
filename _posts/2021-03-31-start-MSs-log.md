@@ -2,7 +2,7 @@
 title: 리액트(React) 초기 설정
 author: MyungSeung Kim
 date: 2021-03-31 12:00:00 +0900
-categories: []
+categories: [Daily life,]
 tags: [web, react]
 math: true
 mermaid: true
@@ -42,5 +42,5 @@ npm start
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTkwNDYxN119
+eyJoaXN0b3J5IjpbMjAzOTQ1NjAwMl19
 -->
