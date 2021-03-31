@@ -80,14 +80,21 @@ function App() {
 하나의 *div*를 하나의 *function*으로 줄일 수 있다.
 이 *function*을 **Component** 라고 부른다 
 ```jsx
+function Comp(){ 
+  return ( 
+    <div>
+      블라블라블랄랄라
+    </div>
+  )
+}
 function App(){ 
   return (
     <div> 
-      <Modal></Modal>
+      <Comp></Comp>
     </div> 
-    )
- } function Modal(){ return ( <div className="modal"> <h2>제목</h2> <p>날짜</p> <p>상세내용</p> </div> ) }
+  )
+} 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjE5NDM1N119
+eyJoaXN0b3J5IjpbMTk2NjgxOTIwOF19
 -->
