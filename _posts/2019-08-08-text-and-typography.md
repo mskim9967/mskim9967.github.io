@@ -1,13 +1,13 @@
 ---
-title: 리액트(Reach) 초기 설정
+title: 리액트(React) 초기 설정
 author: MyungSeung Kim
-date: 2019-08-08 11:33:00 +0800
+date: +0900
 categories: [Web, React]
 tags: [web, react]
 math: true
 mermaid: true
 image:
-  src: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png
+
 ---
 
 This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
@@ -219,5 +219,5 @@ private void writeObject(java.io.ObjectOutputStream s)
 [^footnote]: The footnote source
 [^fn-nth-2]: The 2nd footnote source
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU5NjI4ODFdfQ==
+eyJoaXN0b3J5IjpbNDkxNjg0NjQyXX0=
 -->
