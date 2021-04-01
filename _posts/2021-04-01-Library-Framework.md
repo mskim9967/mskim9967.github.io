@@ -11,21 +11,21 @@ image:
 ---
 
 ## Library
-프로그램 개발을 간편하게 하기 위해 제공되는 도구 또는 함수의 집합
+프로그램 개발을 간편하게 하기 위해 제공되는 도구 또는 함수의 집합  
 *ex) jQuery, Chart.js, numpy, pandas*
 <br/><br/>
 
 ## Framework
-특정한 프로그램 개발을 위하여 제공되는 기반  소프트웨어
+특정한 프로그램 개발을 위하여 제공되는 기반  소프트웨어  
 *ex) Spring, Django, Node.js*
 <br/><br/>
 
 ## Library vs Framework
-| Library | Framework |
-| :---: | :---: |
-| 내 코드에서 *Library*를 호출 | *Framework*가 내 코드를 호출 |
-|대체하기 쉬움|대체하기 어려움|
-|tool|rule|
+| Library | Framework |  
+| :---: | :---: |  
+| 내 코드에서 *Library*를 호출 | *Framework*가 내 코드를 호출 |  
+|대체하기 쉬움|대체하기 어려움|  
+|tool|rule|  
 <br/><br/>
 
 ## React는?
