@@ -27,6 +27,12 @@ image:
 | 대체하기 쉬움 | 대체하기 어려움 |  
 | tool | rule |  
 
+| Company                      | Contact          | Country |
+|:-----------------------------|:-----------------|--------:|
+| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Island Trading               | Helen Bennett    | UK      |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
+
 
 ## React는?
 공식 홈페이지에는 *Framework*라고 명시되어 있다.
