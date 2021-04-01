@@ -32,8 +32,7 @@ Active service, Sergent, Intelligence communication
 - Video edit
 - Typography
 -  J-POP
-- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjAzODc0NiwtMTA4OTg2MDA4MSwtNz
-k0Mzc5ODJdfQ==
+eyJoaXN0b3J5IjpbLTE2ODczNDI0MjEsLTEwODk4NjAwODEsLT
+c5NDM3OTgyXX0=
 -->
