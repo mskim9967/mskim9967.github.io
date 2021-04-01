@@ -21,6 +21,7 @@ image:
 
 
 ## Library vs Framework
+
 |            Library        |           Framework          |
 |:---:|:---:|
 | 내 코드에서 *Library*를 호출 | *Framework*가 내 코드를 호출 |
