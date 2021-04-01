@@ -5,11 +5,13 @@ order: 4
 ---
 
 
-# Welcome!!
-개발자가 되고 싶은 학생의 log를 기록해가는 블로그입니다.
+# Welcome!!  
 ---
-## Who am i?
+개발자가 되고 싶은 학생의 log를 기록해가는 블로그입니다. 
+<br/><br/>
 
+## Who am i?
+---
 #### Name
 - MS
 - MyungSeung Kim
@@ -32,6 +34,6 @@ Active service, Sergent, Intelligence communication
 -  J-POP
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzczNzg1MSwtMTA4OTg2MDA4MSwtNz
+eyJoaXN0b3J5IjpbLTkzNjAzODc0NiwtMTA4OTg2MDA4MSwtNz
 k0Mzc5ODJdfQ==
 -->
