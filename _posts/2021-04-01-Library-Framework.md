@@ -23,7 +23,7 @@ image:
 ## Library vs Framework
 
 | Library                      | Framework                    |
-|------------------------------|------------------------------|
+|:------------------------------:|:------------------------------:|
 | 내 코드에서 *Library*를 호출 | *Framework*가 내 코드를 호출 |
 | 대체하기 쉬움                | 대체하기 어려움              |
 | tool                         | rule                         | 
@@ -33,12 +33,6 @@ image:
 | 내 코드에서 *Library*를 호출 | *Framework*가 내 코드를 호출 |
 |         대체하기 쉬움        |        대체하기 어려움       |
 |             tool             |             rule             |
-
-| Company                      | Contact          | Country |
-|:-----------------------------|:-----------------|--------:|
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    | UK      |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
 
 
 ## React는?
