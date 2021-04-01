@@ -24,8 +24,8 @@ image:
 | Library | Framework |  
 | :---: | :---: |  
 | 내 코드에서 *Library*를 호출 | *Framework*가 내 코드를 호출 |  
-|대체하기 쉬움|대체하기 어려움|  
-|tool|rule|  
+| 대체하기 쉬움 | 대체하기 어려움 |  
+| tool | rule |  
 
 
 ## React는?
@@ -38,6 +38,6 @@ image:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODY4MDAyNCwxNzc0NTc3ODcwLC0xNT
-I3ODQ2NjgyLC0xMjEzNTI5OTYyLC0xMzk4NDU5MzgxXX0=
+eyJoaXN0b3J5IjpbLTIwMDgzMTI1MjAsMTc3NDU3Nzg3MCwtMT
+UyNzg0NjY4MiwtMTIxMzUyOTk2MiwtMTM5ODQ1OTM4MV19
 -->
