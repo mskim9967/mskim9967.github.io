@@ -25,7 +25,7 @@ image:
 |            Library        |           Framework          |
 |:---:|:---:|
 | 내 코드에서 *Library*를 호출 | *Framework*가 내 코드를 호출 |
-|                    대체하기 쉬움        |        대체하기 어려움       |
+|                   대체하기 쉬움        |        대체하기 어려움       |
 |             tool            | rule |
 
 
@@ -39,7 +39,7 @@ image:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDkzMjQ2LDE4MzIyMzgzNTgsLTIwMD
-gzMTI1MjAsMTc3NDU3Nzg3MCwtMTUyNzg0NjY4MiwtMTIxMzUy
-OTk2MiwtMTM5ODQ1OTM4MV19
+eyJoaXN0b3J5IjpbLTE3MDAwNjgyNTAsLTc5NDkzMjQ2LDE4Mz
+IyMzgzNTgsLTIwMDgzMTI1MjAsMTc3NDU3Nzg3MCwtMTUyNzg0
+NjY4MiwtMTIxMzUyOTk2MiwtMTM5ODQ1OTM4MV19
 -->
