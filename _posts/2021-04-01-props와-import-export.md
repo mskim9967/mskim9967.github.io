@@ -1,5 +1,5 @@
 ---
-title: &#91;React&#93; props와 import, export
+title: &#91;React&#93; props와 import&#47;export
 author: MyungSeung Kim
 date: 2021-04-01 14:52:00 +0900
 categories: [Web, React]
@@ -67,6 +67,6 @@ import { data, data2 } from "./dataExport.js
 
 또한 `export default`를 사용하면 `import`시 변수명을 자유롭게 작성할 수 있지만, `export {}`를 사용한다면 변수명은 `export {}` 안의 변수명 그대로 사용해야 한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg4NDA5OTIsOTAyODU3ODk5LDE0OD
-k2ODgwNjQsMTAyNDkzODU2NCwtMTQ0MTkxNDMzMl19
+eyJoaXN0b3J5IjpbLTI2MzY2MzA1LDkwMjg1Nzg5OSwxNDg5Nj
+g4MDY0LDEwMjQ5Mzg1NjQsLTE0NDE5MTQzMzJdfQ==
 -->
