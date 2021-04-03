@@ -15,7 +15,7 @@ Component에 data binding을 위해서는 props 문법을 사용해야 한다.
 <br/>
 
 또한 외부 jsx 파일의 함수, 변수 등을 불러올 때는 import  
-&#47;export르 사용해야 한다.
+&#47;export를 사용해야 한다.
 <br/>
 
 ## props
@@ -67,6 +67,6 @@ import { data, data2 } from "./dataExport.js
 
 또한 `export default`를 사용하면 `import`시 변수명을 자유롭게 작성할 수 있지만, `export {}`를 사용한다면 변수명은 `export {}` 안의 변수명 그대로 사용해야 한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1MzIzMDE2LDEwMjQ5Mzg1NjQsLTE0ND
-E5MTQzMzJdfQ==
+eyJoaXN0b3J5IjpbMTQ4OTY4ODA2NCwxMDI0OTM4NTY0LC0xND
+QxOTE0MzMyXX0=
 -->
