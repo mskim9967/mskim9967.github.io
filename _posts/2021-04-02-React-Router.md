@@ -52,8 +52,9 @@ function App() {
 #### component
 `<Route>` 안에 **component** property를 사용하여 해당 컴포넌트를 바로 넣을 수 있다. 코드 읽기 편해질듯! 
 #### exact
-`exact`를 사용하지 않는다면 **/yeah**로 접속하였을 때 **/** 의 Comp도 같이 표시된다. 
+`exact`를 사용하지 않는다면 **&#47;yeah**로 접속하였을 때   
+**&#47;** 의 Comp도 같이 표시된다. 
 `exact`를 사용한다면 해당 경로와 정확히 일치하는 Component만 보여진다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNDIzNjEwXX0=
+eyJoaXN0b3J5IjpbLTYwNDM4Mjc0NF19
 -->
