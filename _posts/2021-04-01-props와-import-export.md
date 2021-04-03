@@ -13,6 +13,9 @@ image:
 Component에 data binding을 위해서는 props 문법을 사용해야 한다
 <br/>
 
+또한 외부 jsx 파일의 함수, 변수 등을 불러올 때는 impo
+<br/>
+
 ## props
 ---
 
@@ -120,5 +123,5 @@ function App(){
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE5MTQzMzJdfQ==
+eyJoaXN0b3J5IjpbMTAyNDkzODU2NCwtMTQ0MTkxNDMzMl19
 -->
