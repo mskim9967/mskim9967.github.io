@@ -1,5 +1,5 @@
 ---
-title: &#91;React&#93; JSX와 state, Component
+title: React) JSX와 state, Component
 author: MyungSeung Kim
 date: 2021-03-31 19:12:00 +0900
 categories: [Web, React]
@@ -109,5 +109,5 @@ function App(){
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg1NDMyMTgsMTI0Nzk0Njg0MV19
+eyJoaXN0b3J5IjpbMTg5MzAwMTk3MywxMjQ3OTQ2ODQxXX0=
 -->
