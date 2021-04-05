@@ -37,7 +37,7 @@ function Comp() {
 2. 컴포넌트가 mount 될 때 한번만 실행
 3. 컴포넌트가 mount, state가 변경 될 때 실행
 4. 컴포넌트가 unmount될 때 한번만 실행
-5. 컴
+5. 컴포넌트가 
 #### component
 `<Route>` 안에 **component** property를 사용하여 해당 컴포넌트를 바로 넣을 수 있다. 코드 읽기 편해질듯! 
 #### exact
@@ -87,6 +87,6 @@ let { p1, p2 } = useParams();
 
 `useParams()`는 key와 value를 반환하기에 반드시 변수 이름을 일치시켜 줘야 한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMTY1Mjk3LDcwMjIwODA2LC01ODAwMT
-Y0ODldfQ==
+eyJoaXN0b3J5IjpbLTEwMjA4NTUyNjksNzAyMjA4MDYsLTU4MD
+AxNjQ4OV19
 -->
