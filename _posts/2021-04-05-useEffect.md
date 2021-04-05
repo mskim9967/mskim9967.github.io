@@ -9,7 +9,7 @@ mermaid: true
 image:
 
 ---
-component가 생성도
+component가 mount, update,  
 ## BrowserRouter
 ---
 
@@ -91,5 +91,5 @@ let { p1, p2 } = useParams();
 
 `useParams()`는 key와 value를 반환하기에 반드시 변수 이름을 일치시켜 줘야 한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg4MDcyODksLTU4MDAxNjQ4OV19
+eyJoaXN0b3J5IjpbLTE1MTA3OTg2MjEsLTU4MDAxNjQ4OV19
 -->
