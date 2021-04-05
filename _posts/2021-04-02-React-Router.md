@@ -36,7 +36,7 @@ ReactDOM.render(
 ```
 ```jsx
 /// App.js
-import { Route, Switch, Link } from 'react-router-dom';
+import { Route, Switch, useHistory, Link } from 'react-router-dom';
 
 function App() {
 	return (
@@ -74,7 +74,10 @@ function App() {
 }
 ```
 `Switch`를 사용하면 `exact`를 사용하지 않고 url과 일치하는 한가지 내용만 보여줄 수 있다.
+
+## useHistory
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTcwMzg0MTgsMzc4MDgxNzUzLC0xMz
+eyJoaXN0b3J5IjpbLTE2NTgwNTE2MzYsMzc4MDgxNzUzLC0xMz
 IxMTM0Njc2LC02MDQzODI3NDRdfQ==
 -->
