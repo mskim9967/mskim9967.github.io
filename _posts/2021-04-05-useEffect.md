@@ -18,10 +18,16 @@ component가 mount, update, unmount 될 때, **useEffect**를 사용하여 자�
 import { useEffect } from  'react';
 function Comp() { 
 	useEffect(()=>{ 
-		...
+		// 1
 	});
+	useEffect(()=>{ 
+		// 2
+	}, []);
+	useEffect(()=>{ 
+		// 3
+	}, [state]);
 ```
-
+* 
 #### component
 `<Route>` 안에 **component** property를 사용하여 해당 컴포넌트를 바로 넣을 수 있다. 코드 읽기 편해질듯! 
 #### exact
@@ -71,5 +77,6 @@ let { p1, p2 } = useParams();
 
 `useParams()`는 key와 value를 반환하기에 반드시 변수 이름을 일치시켜 줘야 한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyMjA4MDYsLTU4MDAxNjQ4OV19
+eyJoaXN0b3J5IjpbMTc3NDYxNDYxNyw3MDIyMDgwNiwtNTgwMD
+E2NDg5XX0=
 -->
