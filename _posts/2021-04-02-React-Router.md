@@ -96,8 +96,10 @@ url Parameters들을 쉽게 가져올 수 있는 함수다.
 let { p1, p2 } = useParams();
 ```
 위처럼 파라미터를 변수에 저장할 수 있다.
+
+`useParams()`는 key와 value를 반환하기에 반드시 변수 이름을 일치시켜 줘야 한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM0OTExMzMsMTQyOTI0MDAxMiwtOD
-Y3NjAzNTEyLDM3ODA4MTc1MywtMTMyMTEzNDY3NiwtNjA0Mzgy
-NzQ0XX0=
+eyJoaXN0b3J5IjpbLTU4MDAxNjQ4OSwxNDI5MjQwMDEyLC04Nj
+c2MDM1MTIsMzc4MDgxNzUzLC0xMzIxMTM0Njc2LC02MDQzODI3
+NDRdfQ==
 -->
