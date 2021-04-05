@@ -41,11 +41,11 @@ function Comp() {
 
 4. 컴포넌트가 unmount될 때 한번만 실행
 
-5. state가 변경되어 컴포넌트가 update되기 전 실행
+5. state가 변경되어 컴포넌트가 update되기 전, unmount될 때 실행
 <br/>
 
 unmount 시 clearInterval, clearTimeout, 라이브러리 인스턴스 제거 같은 작업을 하는 습관!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjM5Nzk3MSwtOTMwNzAyMjU4LDcwMj
-IwODA2LC01ODAwMTY0ODldfQ==
+eyJoaXN0b3J5IjpbMTI0NDUwMDUsLTkzMDcwMjI1OCw3MDIyMD
+gwNiwtNTgwMDE2NDg5XX0=
 -->
