@@ -84,9 +84,10 @@ function App() {
 <br/>
 
 ## useHistory
-변수에 `usehistory()`를 저장한 후 함수 안에 push(
+변수에 `usehistory()`를 저장한 후 함수 안에서 `push()` 메서드로 경로 이동이 가능하다.
+JSX안에서 사용 불가하고 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzI0MzQyMiwtODY3NjAzNTEyLDM3OD
+eyJoaXN0b3J5IjpbMTk4ODAxMjYxOCwtODY3NjAzNTEyLDM3OD
 A4MTc1MywtMTMyMTEzNDY3NiwtNjA0MzgyNzQ0XX0=
 -->
