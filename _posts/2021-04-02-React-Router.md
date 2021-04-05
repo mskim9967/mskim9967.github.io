@@ -84,9 +84,9 @@ function App() {
 <br/>
 
 ## useHistory
-변수에 `usehistory()`를 저장한 
+변수에 `usehistory()`를 저장한 후 함수 안에 push(
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzYwMzUxMiwzNzgwODE3NTMsLTEzMj
-ExMzQ2NzYsLTYwNDM4Mjc0NF19
+eyJoaXN0b3J5IjpbMTA3MzI0MzQyMiwtODY3NjAzNTEyLDM3OD
+A4MTc1MywtMTMyMTEzNDY3NiwtNjA0MzgyNzQ0XX0=
 -->
