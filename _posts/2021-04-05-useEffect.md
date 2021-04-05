@@ -43,7 +43,9 @@ function Comp() {
 
 5. state가 변경되어 컴포넌트가 update되기 전 실행
 <br/>
+
+unmount 시 clearInterval, clearTimeout, 라이브러리 인스턴스 제거 같은 작업을 하는 습관!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDcwMjI1OCw3MDIyMDgwNiwtNTgwMD
-E2NDg5XX0=
+eyJoaXN0b3J5IjpbLTQ2MjM5Nzk3MSwtOTMwNzAyMjU4LDcwMj
+IwODA2LC01ODAwMTY0ODldfQ==
 -->
