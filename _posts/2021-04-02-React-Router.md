@@ -56,6 +56,13 @@ function App() {
 `exact`를 사용하지 않는다면 **&#47;yeah**로 접속하였을 때   
 **&#47;** 의 Comp도 같이 표시된다. 
 `exact`를 사용한다면 해당 경로와 정확히 일치하는 Component만 보여진다.
+<br/>
+
+## Switch
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjExMzQ2NzYsLTYwNDM4Mjc0NF19
+eyJoaXN0b3J5IjpbNDUwMzY0Mzk5LC0xMzIxMTM0Njc2LC02MD
+QzODI3NDRdfQ==
 -->
