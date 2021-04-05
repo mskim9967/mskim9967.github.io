@@ -75,9 +75,9 @@ function App() {
 ```
 `Switch`를 사용하면 `exact`를 사용하지 않고 url과 일치하는 한가지 내용만 보여줄 수 있다.
 
-## useHistory
+## Link
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTgwNTE2MzYsMzc4MDgxNzUzLC0xMz
-IxMTM0Njc2LC02MDQzODI3NDRdfQ==
+eyJoaXN0b3J5IjpbMTYwNjI2Mzk5LDM3ODA4MTc1MywtMTMyMT
+EzNDY3NiwtNjA0MzgyNzQ0XX0=
 -->
