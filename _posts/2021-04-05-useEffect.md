@@ -25,6 +25,9 @@ function Comp() {
 	}, []);
 	useEffect(()=>{ 
 		// 3
+		return ()=> {
+			// 4
+		}
 	}, [state]);
 ```
 * 
@@ -77,6 +80,6 @@ let { p1, p2 } = useParams();
 
 `useParams()`는 key와 value를 반환하기에 반드시 변수 이름을 일치시켜 줘야 한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDYxNDYxNyw3MDIyMDgwNiwtNTgwMD
+eyJoaXN0b3J5IjpbLTc4MzQ0MjY5Nyw3MDIyMDgwNiwtNTgwMD
 E2NDg5XX0=
 -->
