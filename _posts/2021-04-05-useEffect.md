@@ -16,6 +16,7 @@ component가 mount, update, unmount 될 때, **useEffect**를 사용하여 자�
 
 ```jsx
 import { useEffect } from  'react';
+
 function Comp() { 
 	useEffect(()=>{ 
 		// 1
@@ -32,6 +33,7 @@ function Comp() {
 			// 5
 		}
 	}, [state]);
+	...
 ```
 1. 컴포넌트가 mount, update 될 때 실행
 
@@ -46,6 +48,6 @@ function Comp() {
 
 unmount 시 clearInterval, clearTimeout, 라이브러리 인스턴스 제거 같은 작업을 하는 습관!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDUwMDUsLTkzMDcwMjI1OCw3MDIyMD
-gwNiwtNTgwMDE2NDg5XX0=
+eyJoaXN0b3J5IjpbLTE3ODU0MTEzMjEsMTI0NDUwMDUsLTkzMD
+cwMjI1OCw3MDIyMDgwNiwtNTgwMDE2NDg5XX0=
 -->
