@@ -1,7 +1,7 @@
 ---
-title: React) React Router
+title: React) useEffect
 author: MyungSeung Kim
-date: 2021-04-02 14:52:00 +0900
+date: 2021-04-04 14:00:00 +0900
 categories: [Web, React]
 tags: [web, react, jsx, frontend]
 math: true
@@ -9,15 +9,7 @@ mermaid: true
 image:
 
 ---
-
-react-router-dom 라이브러리를 사용하여 React에서 routing을 할 수 있다.
-
-이는 실제로 다른 HTML 파일을 보여주는 것이 아닌, 하나의 HTML 내용을 수정하여 다른 HTML 파일을 보여주는 것처럼 흉내내는 것이다.
-또한 화면이 깜빡이는 새로고침 없이 주소를 변경할 수 있어 웹앱에 최적화 되어있다.
-
-`npm install react-router-dom`으로 설치 가능하다.
-<br/>
-
+component가 생성도
 ## BrowserRouter
 ---
 
@@ -99,5 +91,5 @@ let { p1, p2 } = useParams();
 
 `useParams()`는 key와 value를 반환하기에 반드시 변수 이름을 일치시켜 줘야 한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDAxNjQ4OV19
+eyJoaXN0b3J5IjpbLTE2Mjg4MDcyODksLTU4MDAxNjQ4OV19
 -->
