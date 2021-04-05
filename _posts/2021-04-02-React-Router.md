@@ -36,7 +36,7 @@ ReactDOM.render(
 ```
 ```jsx
 /// App.js
-import { Route, Switch, useHistory, Link } from 'react-router-dom';
+import { Route, Switch, useHistory, Link, useParams } from 'react-router-dom';
 
 function App() {
 	return (
@@ -87,8 +87,12 @@ function App() {
 변수에 `usehistory()`를 저장한 후 함수 안에서 `push()` 메서드로 경로 이동이 가능하다.
 JSX안에서 사용 불가하고 history stack을 활용하기에 유용한 기능들이 많다.
 대표적인 예로 뒤로가기인 `goBack()`이 있다.
+<br/>
 
+## useParams
+url Parameters들을 쉽게 가져올 수 있는 함수다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTI0MDAxMiwtODY3NjAzNTEyLDM3OD
-A4MTc1MywtMTMyMTEzNDY3NiwtNjA0MzgyNzQ0XX0=
+eyJoaXN0b3J5IjpbMjk5OTIwMzExLDE0MjkyNDAwMTIsLTg2Nz
+YwMzUxMiwzNzgwODE3NTMsLTEzMjExMzQ2NzYsLTYwNDM4Mjc0
+NF19
 -->
