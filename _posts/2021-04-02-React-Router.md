@@ -92,8 +92,12 @@ JSX안에서 사용 불가하고 history stack을 활용하기에 유용한 기�
 ## useParams
 url Parameters들을 쉽게 가져올 수 있는 함수다.
 `Route path="/:p1/:p2"` 일 때, 
+```jsx
+let { p1, p2 } = useParams();
+```
+위처럼 파라미터를 변수에 저장할 수 있다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQ4MzE3NTEsMTQyOTI0MDAxMiwtOD
+eyJoaXN0b3J5IjpbLTEzMDM0OTExMzMsMTQyOTI0MDAxMiwtOD
 Y3NjAzNTEyLDM3ODA4MTc1MywtMTMyMTEzNDY3NiwtNjA0Mzgy
 NzQ0XX0=
 -->
