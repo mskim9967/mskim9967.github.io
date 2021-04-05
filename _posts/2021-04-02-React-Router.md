@@ -64,7 +64,7 @@ function App() {
 	return (
 		<div>
 			<Switch>
-				<Route exact path="/" component={ Comp }></Route>
+				<Route path="/" component={ Comp }></Route>
 				<Route path="/yeah">
 					yyeeeaaah
 				</Route>
@@ -73,7 +73,8 @@ function App() {
 	)
 }
 ```
+`Switch`를 사용하면 `exact`를 사용하지 않고 url과 일치하는 한가지 내용만 보여줄 수 있다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQwMjQ5MjYsMzc4MDgxNzUzLC0xMz
+eyJoaXN0b3J5IjpbLTIwNTcwMzg0MTgsMzc4MDgxNzUzLC0xMz
 IxMTM0Njc2LC02MDQzODI3NDRdfQ==
 -->
