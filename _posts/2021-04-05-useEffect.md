@@ -13,7 +13,7 @@ component가 mount, update, unmount 될 때, **useEffect**를 사용하여 자�
 
 ## useEffect
 ---
-
+import React, {useState, useEffect} from  'react'; function Detail(){ useEffect(()=>{ //코드를 적습니다 여기 }); return ( <HTML많은곳/> ) }
 ```jsx
 ```
 #### component
@@ -65,5 +65,5 @@ let { p1, p2 } = useParams();
 
 `useParams()`는 key와 value를 반환하기에 반드시 변수 이름을 일치시켜 줘야 한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODQ3MTAyOCwtNTgwMDE2NDg5XX0=
+eyJoaXN0b3J5IjpbLTIwMDE1NDgxNzQsLTU4MDAxNjQ4OV19
 -->
