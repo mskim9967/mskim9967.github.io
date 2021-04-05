@@ -85,9 +85,10 @@ function App() {
 
 ## useHistory
 변수에 `usehistory()`를 저장한 후 함수 안에서 `push()` 메서드로 경로 이동이 가능하다.
-JSX안에서 사용 불가하고 
+JSX안에서 사용 불가하고 history stack을 활용하기에 유용한 기능들이 많다.
+대표적인 예로 뒤로가기인 `goBack()`이 있다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODAxMjYxOCwtODY3NjAzNTEyLDM3OD
+eyJoaXN0b3J5IjpbMTQyOTI0MDAxMiwtODY3NjAzNTEyLDM3OD
 A4MTc1MywtMTMyMTEzNDY3NiwtNjA0MzgyNzQ0XX0=
 -->
