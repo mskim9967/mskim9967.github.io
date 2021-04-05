@@ -37,8 +37,9 @@ function Comp() {
 2. 컴포넌트가 mount 될 때 한번만 실행
 3. 컴포넌트가 mount, state가 변경 될 때 실행
 4. 컴포넌트가 unmount될 때 한번만 실행
-5. state가 변경되어 컴포넌트가 update되기 전 실행 줘야 한다.
+5. state가 변경되어 컴포넌트가 update되기 전 실행
+<br/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzQ4MzkzLDcwMjIwODA2LC01ODAwMT
-Y0ODldfQ==
+eyJoaXN0b3J5IjpbMTI4MDE1Mjc0Niw3MDIyMDgwNiwtNTgwMD
+E2NDg5XX0=
 -->
