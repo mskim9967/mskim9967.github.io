@@ -83,9 +83,10 @@ function App() {
 요소 혹은 컴포넌트를 Link 태그로 감싼 뒤 to 속성에 경로를 지정해주면, 해당 링크로 새로고침 없이 이동할 수 있다.
 <br/>
 
-## ys
+## useHistory
+변수에 `usehistory()`를 저장한 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAzMDQ4MTIsMzc4MDgxNzUzLC0xMz
-IxMTM0Njc2LC02MDQzODI3NDRdfQ==
+eyJoaXN0b3J5IjpbLTg2NzYwMzUxMiwzNzgwODE3NTMsLTEzMj
+ExMzQ2NzYsLTYwNDM4Mjc0NF19
 -->
