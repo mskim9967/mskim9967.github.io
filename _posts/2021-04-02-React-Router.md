@@ -13,6 +13,7 @@ image:
 react-router-dom 라이브러리를 사용하여 React에서 routing을 할 수 있다.
 
 이는 실제로 다른 HTML 파일을 보여주는 것이 아닌, 하나의 HTML 내용을 수정하여 다른 HTML 파일을 보여주는 것처럼 흉내내는 것이다.
+또한 새로고침 없이 주소를 변경할 수 있어
 
 `npm install react-router-dom`으로 설치 가능하다.
 <br/>
@@ -56,5 +57,5 @@ function App() {
 **&#47;** 의 Comp도 같이 표시된다. 
 `exact`를 사용한다면 해당 경로와 정확히 일치하는 Component만 보여진다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzAzOTMyNzEsLTYwNDM4Mjc0NF19
+eyJoaXN0b3J5IjpbMTQ4NTA4OTEwOCwtNjA0MzgyNzQ0XX0=
 -->
