@@ -42,7 +42,7 @@ function App() {
 		<div>
 			<Route exact path="/" component={ Comp }></Route>
 			
-			<Route exact path="/yeah">
+			<Route path="/yeah">
 				yyeeeaaah
 			</Route>
 		</div>
@@ -56,5 +56,5 @@ function App() {
 **&#47;** 의 Comp도 같이 표시된다. 
 `exact`를 사용한다면 해당 경로와 정확히 일치하는 Component만 보여진다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDM4Mjc0NF19
+eyJoaXN0b3J5IjpbLTE1MzAzOTMyNzEsLTYwNDM4Mjc0NF19
 -->
