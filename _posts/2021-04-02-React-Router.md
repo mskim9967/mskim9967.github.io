@@ -59,10 +59,21 @@ function App() {
 <br/>
 
 ## Switch
-
-
-
+```jsx
+function App() {
+	return (
+		<div>
+			<Switch>
+				<Route exact path="/" component={ Comp }></Route>
+				<Route path="/yeah">
+					yyeeeaaah
+				</Route>
+			</Switch>
+		</div>
+	)
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4MDgxNzUzLC0xMzIxMTM0Njc2LC02MD
-QzODI3NDRdfQ==
+eyJoaXN0b3J5IjpbLTE0MTQwMjQ5MjYsMzc4MDgxNzUzLC0xMz
+IxMTM0Njc2LC02MDQzODI3NDRdfQ==
 -->
