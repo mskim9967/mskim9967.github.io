@@ -36,7 +36,7 @@ ReactDOM.render(
 ```
 ```jsx
 /// App.js
-import { Route } from 'react-router-dom';
+import { Route, Switch, Link } from 'react-router-dom';
 
 function App() {
 	return (
@@ -63,6 +63,6 @@ function App() {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwMzY0Mzk5LC0xMzIxMTM0Njc2LC02MD
+eyJoaXN0b3J5IjpbMzc4MDgxNzUzLC0xMzIxMTM0Njc2LC02MD
 QzODI3NDRdfQ==
 -->
