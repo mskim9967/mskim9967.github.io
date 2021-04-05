@@ -74,13 +74,18 @@ function App() {
 }
 ```
 `Switch`를 사용하면 `exact`를 사용하지 않고 url과 일치하는 한가지 내용만 보여줄 수 있다.
+<br/>
 
 ## Link
 ```jsx
 <Link to="/">Home</Link>
 ```
-요소 혹은 컴포넌트를 Link 태그로 감ㅆ
+요소 혹은 컴포넌트를 Link 태그로 감싼 뒤 to 속성에 경로를 지정해주면, 해당 링크로 새로고침 없이 이동할 수 있다.
+<br/>
+
+## ys
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTk4NDAxNiwzNzgwODE3NTMsLTEzMj
-ExMzQ2NzYsLTYwNDM4Mjc0NF19
+eyJoaXN0b3J5IjpbLTIwMzAzMDQ4MTIsMzc4MDgxNzUzLC0xMz
+IxMTM0Njc2LC02MDQzODI3NDRdfQ==
 -->
